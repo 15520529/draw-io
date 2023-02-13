@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T18:43:14.956Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="JaYbsSP8mraAi1vNdVqB" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T18:43:43.134Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="5usvF8c5ttWyVmXWu8dy" version="20.8.18" type="github">
   <diagram name="Trang-1" id="wNU1H5Y7zv_GKCtgPEAO">
     <mxGraphModel dx="1781" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,12 +36,6 @@
             <mxPoint x="65" y="200" as="sourcePoint" />
             <mxPoint x="695" y="200" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="QZXupjUOMTafXn6LQ9dr-30" value="get account of A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="125" y="210" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QZXupjUOMTafXn6LQ9dr-33" value="get account of C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="275" y="210" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QZXupjUOMTafXn6LQ9dr-34" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -152,6 +146,12 @@
         </mxCell>
         <mxCell id="QZXupjUOMTafXn6LQ9dr-69" value="-200$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="580" y="160" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QZXupjUOMTafXn6LQ9dr-71" value="get account of A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QZXupjUOMTafXn6LQ9dr-72" value="get account of C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
