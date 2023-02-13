@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T10:50:11.828Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="xWUklFW53dOJC9ZJ5w6j" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T10:50:17.409Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="vjPfF7njsza0XXKvxYP4" version="20.8.18" type="github">
   <diagram name="Trang-1" id="wNU1H5Y7zv_GKCtgPEAO">
     <mxGraphModel dx="954" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry x="470" y="380" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QZXupjUOMTafXn6LQ9dr-13" value="get account of C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="495" width="110" height="30" as="geometry" />
+          <mxGeometry x="475" y="495" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QZXupjUOMTafXn6LQ9dr-14" value="increase balance of B 1000$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="184" y="480" width="180" height="30" as="geometry" />
