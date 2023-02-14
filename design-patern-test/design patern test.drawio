@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T14:09:06.349Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ZECXF9aae7LnVrCegE9e" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-14T14:09:23.258Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="tj1jiqEmKoCJs7PP83ZD" version="20.8.18" type="github">
   <diagram name="Trang-1" id="wNU1H5Y7zv_GKCtgPEAO">
     <mxGraphModel dx="1941" dy="1757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -234,10 +234,10 @@
         <mxCell id="QZXupjUOMTafXn6LQ9dr-115" value="async replication" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="570" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QZXupjUOMTafXn6LQ9dr-116" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;exitX=0.883;exitY=0.214;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" parent="1" source="QZXupjUOMTafXn6LQ9dr-78" target="QZXupjUOMTafXn6LQ9dr-88">
+        <mxCell id="QZXupjUOMTafXn6LQ9dr-116" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="67" y="630" as="sourcePoint" />
-            <mxPoint x="275" y="628" as="targetPoint" />
+            <mxPoint x="50" y="590" as="sourcePoint" />
+            <mxPoint x="545" y="590" as="targetPoint" />
             <Array as="points">
               <mxPoint x="50" y="530" />
               <mxPoint x="310" y="530" />
